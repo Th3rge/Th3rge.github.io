@@ -23,6 +23,7 @@ p {
 li {
     font-style: italic;
     line-height: 30px;
+    list-style: none;
 
 }
 
